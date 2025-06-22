@@ -1,0 +1,39 @@
+[package]
+name = "file_deduplicator"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+#CLI parsing
+clap = { version = "4.4", features = ["derive"] }
+
+# Directory Walking -Traversal
+walkdir = "2.4"
+
+#Parallel Processing
+rayon = "1.8"
+
+# Filter
+regex = "1.10"
+
+#Hashing
+sha2 = "0.10"
+blake3 = "1.5"
+xxhash-rust = "0.8"
+
+#Time handling
+chrono = { version = "0.4", features = ["serde"] }
+
+#Progress bar
+indicatif = "0.17"
+
+#JSON
+serde = { version = "1.0", features = ["derive"] }
+serde_json = "1.0"
+
+#HTML template render
+tera = "1.19"
+
+#Directory access
+dirs = "5.0"
+
