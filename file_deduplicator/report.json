@@ -1,0 +1,15 @@
+{
+  "scanned": 4,
+  "duplicates_found": 1,
+  "duplicate_groups": [
+    {
+      "hash": "duplicate_hash",
+      "files": [
+        "E:\\File_Dedup_Rust\\input\\report1.txt",
+        "E:\\File_Dedup_Rust\\input\\report2.txt"
+      ]
+    }
+  ],
+  "space_savings": 75,
+  "space_savings_size": "75 bytes"
+}
