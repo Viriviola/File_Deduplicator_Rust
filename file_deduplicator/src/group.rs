@@ -1,4 +1,3 @@
-// src/group.rs
 use std::collections::HashMap;
 use std::path::PathBuf;
 

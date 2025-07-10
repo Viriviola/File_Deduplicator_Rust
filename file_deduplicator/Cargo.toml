@@ -37,3 +37,14 @@ tera = "1.19"
 #Directory access
 dirs = "5.0"
 
+[lib]
+name = "file_deduplicator"
+path = "src/lib.rs"
+
+[[bin]]
+name = "file_deduplicator"
+path = "src/main.rs"
+
+[dev-dependencies]
+tempfile = "3.10"         # Optional: for temporary file handling in tests
+

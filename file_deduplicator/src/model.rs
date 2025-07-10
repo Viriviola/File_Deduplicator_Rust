@@ -1,4 +1,3 @@
-// src/models.rs
 use std::path::PathBuf;
 use serde::{Serialize, Deserialize};
 

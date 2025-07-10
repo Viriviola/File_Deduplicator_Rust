@@ -1,4 +1,3 @@
-// src/filter.rs
 use std::path::PathBuf;
 use std::fs;
 use regex::Regex;

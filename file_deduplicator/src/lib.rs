@@ -1,0 +1,9 @@
+//Making modules public
+pub mod cli;
+pub mod scan;
+pub mod filter;
+pub mod hash;
+pub mod group;
+pub mod quarantine;
+pub mod model;
+pub mod report;
