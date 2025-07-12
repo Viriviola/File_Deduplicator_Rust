@@ -8,7 +8,6 @@ This is a beginner-friendly Rust project that scans a directory and detects dupl
 
 ## ✨ Features
 
-* ✅ **Multi-Algorithm Hashing** (SHA-256 implemented)
 * 🚀 **Parallel Processing** using Rayon for fast hashing
 * 🧰 **Advanced Filtering**: by file size, extension, date modified, and name patterns
 * 🛡️ **Safe Quarantine System** before deletion
