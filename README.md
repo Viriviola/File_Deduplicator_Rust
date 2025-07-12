@@ -1,4 +1,4 @@
-# Fiile_Depdup_Rust
+# File_Depduplicator_Rust
 
 # 🧠 Intelligent File Deduplicator (Rust)
 
